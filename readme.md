@@ -13,4 +13,4 @@ The main goal of this workshop is to try out different levels of tests;
 
 ## Unit Tests
 
-In [this project](./app.py), I will be creating a simple Flask app that counts that calculates something. The app will have ElasticSearch as a data base.
+In [this project](./unit-tests), I will be creating a simple Flask app that counts that calculates something. The app will have ElasticSearch as a data base.
